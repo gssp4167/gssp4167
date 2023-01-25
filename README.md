@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gautham Sai Swaroop.
-- 👀 I’m interested in Full Stack Web Development and Data Science.
-- 🌱 I’m currently learning Data Science.
+- 👀 I’m a Full Stack Web Developer.
 - 💞️ I’m looking to collaborate on open source projects based on full stack web development.
 - 📫 Reach out to me at gauthamsaiswaroop.p@gmail.com
 
